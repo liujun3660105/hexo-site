@@ -5,9 +5,9 @@
   <subtitle>知识结构化</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://liujun3660105.github.io/hexo-site.github.io/"/>
   <updated>2020-02-15T04:00:30.463Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://liujun3660105.github.io/hexo-site.github.io/</id>
   
   <author>
     <name>June</name>
@@ -18,19 +18,19 @@
   
   <entry>
     <title>让数据在地图上栩栩如生</title>
-    <link href="http://yoursite.com/2020/02/15/index/"/>
-    <id>http://yoursite.com/2020/02/15/index/</id>
+    <link href="https://liujun3660105.github.io/hexo-site.github.io/2020/02/15/index/"/>
+    <id>https://liujun3660105.github.io/hexo-site.github.io/2020/02/15/index/</id>
     <published>2020-02-15T02:11:07.000Z</published>
     <updated>2020-02-15T04:00:30.463Z</updated>
     
-    <content type="html"><![CDATA[<!-- <img src="2020/02/15/index/GISer-logo.jpg" class=""> --><p><img src="/2020/02/15/index/GISer-logo.jpg" alt="logo"><br><font face="黑体" size="3">大家好，我是June，作为一名Giser，我的工作是让数据在地图上栩栩如生。工作任务虽然能够一句话概括，但是学习和工作的内容确是五味陈杂。GIS是一门交叉型学科，也是一门技术，具体就是解决空间问题，而被广泛应用于多个行业。<br>GISer要有对数据的敏感性，根据不用的应用需求，用最便捷的方法处理纷乱复杂的数据。这就要求一定的地理信息专业知识沉淀和GIS软件的应用技能，当然最重要的还是你的空间思维，这才是内功。然而，这才只是开始。。。随着各行各业信息化水平的发展，对定制的GIS系统有着很大的需求。这就要求GISer逐渐转变成一名ITer。应用不同的需求，开发不同的GIS系统。尤其是近年互联网技术的发展，B/S端的GIS系统成为主流，所以不仅要熟悉前端的各类开发框架，还要会后端提供接口，数据库的设计、数据运维，系统部署和持续化。所以各类知识的学习和掌握让人应接不暇，无从下手。这个博客的建立，就是要梳理自己几年来遇到的问题和自己的一些心得，让碎片化的知识点变得结构化，成为一个体系，提高自己的理解和感悟，顺便也能分享给大家，希望对大家有所帮助。</font></p>]]></content>
+    <content type="html"><![CDATA[<!-- <img src="2020/02/15/index/GISer-logo.jpg" class=""> --><p><img src="/hexo-site.github.io/2020/02/15/index/GISer-logo.jpg" alt="logo"><br><font face="黑体" size="3">大家好，我是June，作为一名Giser，我的工作是让数据在地图上栩栩如生。工作任务虽然能够一句话概括，但是学习和工作的内容确是五味陈杂。GIS是一门交叉型学科，也是一门技术，具体就是解决空间问题，而被广泛应用于多个行业。<br>GISer要有对数据的敏感性，根据不用的应用需求，用最便捷的方法处理纷乱复杂的数据。这就要求一定的地理信息专业知识沉淀和GIS软件的应用技能，当然最重要的还是你的空间思维，这才是内功。然而，这才只是开始。。。随着各行各业信息化水平的发展，对定制的GIS系统有着很大的需求。这就要求GISer逐渐转变成一名ITer。应用不同的需求，开发不同的GIS系统。尤其是近年互联网技术的发展，B/S端的GIS系统成为主流，所以不仅要熟悉前端的各类开发框架，还要会后端提供接口，数据库的设计、数据运维，系统部署和持续化。所以各类知识的学习和掌握让人应接不暇，无从下手。这个博客的建立，就是要梳理自己几年来遇到的问题和自己的一些心得，让碎片化的知识点变得结构化，成为一个体系，提高自己的理解和感悟，顺便也能分享给大家，希望对大家有所帮助。</font></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;!-- &lt;img src=&quot;2020/02/15/index/GISer-logo.jpg&quot; class=&quot;&quot;&gt; --&gt;
-&lt;p&gt;&lt;img src=&quot;/2020/02/15/index/GISer-logo.jpg&quot; alt=&quot;logo&quot;&gt;&lt;br&gt;&lt;font face=&quot;黑体&quot; 
+&lt;p&gt;&lt;img src=&quot;/hexo-site.github.io/2020/02/15/index/GISer-logo.jpg&quot; alt=&quot;logo&quot;&gt;
       
     
     </summary>
@@ -41,8 +41,8 @@
   
   <entry>
     <title>FME</title>
-    <link href="http://yoursite.com/2020/02/13/FME/"/>
-    <id>http://yoursite.com/2020/02/13/FME/</id>
+    <link href="https://liujun3660105.github.io/hexo-site.github.io/2020/02/13/FME/"/>
+    <id>https://liujun3660105.github.io/hexo-site.github.io/2020/02/13/FME/</id>
     <published>2020-02-13T09:43:12.000Z</published>
     <updated>2020-02-13T09:57:30.857Z</updated>
     
@@ -65,19 +65,19 @@
     </summary>
     
     
-      <category term="数据库" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+      <category term="数据库" scheme="https://liujun3660105.github.io/hexo-site.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-      <category term="mysql" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql/"/>
+      <category term="mysql" scheme="https://liujun3660105.github.io/hexo-site.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql/"/>
     
     
-      <category term="FME workspacerunner" scheme="http://yoursite.com/tags/FME-workspacerunner/"/>
+      <category term="FME workspacerunner" scheme="https://liujun3660105.github.io/hexo-site.github.io/tags/FME-workspacerunner/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/02/13/hello-world/"/>
-    <id>http://yoursite.com/2020/02/13/hello-world/</id>
+    <link href="https://liujun3660105.github.io/hexo-site.github.io/2020/02/13/hello-world/"/>
+    <id>https://liujun3660105.github.io/hexo-site.github.io/2020/02/13/hello-world/</id>
     <published>2020-02-13T09:22:35.079Z</published>
     <updated>2020-02-13T09:41:53.663Z</updated>
     
@@ -93,7 +93,7 @@
     </summary>
     
     
-      <category term="数据库" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+      <category term="数据库" scheme="https://liujun3660105.github.io/hexo-site.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
   </entry>
